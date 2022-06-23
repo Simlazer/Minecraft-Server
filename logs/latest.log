@@ -1,0 +1,78 @@
+[15:01:29] [ServerMain/INFO]: Building unoptimized datafixer
+[15:01:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:01:31] [Worker-Main-5/WARN]: Invalid path in datapack: fafik77:tags/functions/README; safety measures.txt, ignoring
+[15:01:31] [Worker-Main-5/WARN]: Invalid path in datapack: fafik77:tags/functions/README; safety measures.txt, ignoring
+[15:01:31] [Worker-Main-10/WARN]: Invalid path in datapack: fafik77:functions/fafik77_main/inventory_manager/data structure and usage.json, ignoring
+[15:01:31] [Worker-Main-10/WARN]: Invalid path in datapack: fafik77:functions/fafik77_main/personal_upgrade_manager/data structure and usage.json, ignoring
+[15:01:31] [Worker-Main-10/WARN]: Invalid path in datapack: fafik77:functions/fafik77_main/personal_upgrade_manager/generic functions.txt, ignoring
+[15:01:31] [Worker-Main-10/WARN]: Invalid path in datapack: fafik77:functions/fafik77_main/rng/1 info how to use.txt, ignoring
+[15:01:31] [Worker-Main-10/WARN]: Invalid path in datapack: fafik77:functions/fafik77_main/inventory_manager/data structure and usage.json, ignoring
+[15:01:31] [Worker-Main-10/WARN]: Invalid path in datapack: fafik77:functions/fafik77_main/personal_upgrade_manager/data structure and usage.json, ignoring
+[15:01:31] [Worker-Main-10/WARN]: Invalid path in datapack: fafik77:functions/fafik77_main/personal_upgrade_manager/generic functions.txt, ignoring
+[15:01:31] [Worker-Main-10/WARN]: Invalid path in datapack: fafik77:functions/fafik77_main/rng/1 info how to use.txt, ignoring
+[15:01:32] [ServerMain/INFO]: Loaded 7 recipes
+[15:01:32] [ServerMain/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[15:01:32] [ServerMain/INFO]: Loaded 1305 advancements
+[15:01:33] [Server thread/INFO]: Starting minecraft server version 1.19
+[15:01:33] [Server thread/INFO]: Loading properties
+[15:01:33] [Server thread/INFO]: Default game type: SURVIVAL
+[15:01:33] [Server thread/INFO]: Generating keypair
+[15:01:33] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:176) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at aep$1.run(SourceFile:92) [server-1.19.jar:?]
+[15:01:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:01:33] [Server thread/INFO]: Using default channel type
+[15:01:33] [Server thread/INFO]: Preparing level "world"
+[15:01:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:01:36] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:01:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:01:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:01:36] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[15:01:36] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:01:36] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[15:01:36] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:01:37] [Worker-Main-6/INFO]: Preparing spawn area: 54%
+[15:01:37] [Server thread/INFO]: Time elapsed: 3873 ms
+[15:01:37] [Server thread/INFO]: Done (4.092s)! For help, type "help"
+[15:01:37] [Server thread/WARN]: Couldn't load custom particle minecraft:empty
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:empty
+[15:01:37] [Server thread/WARN]: Couldn't load custom particle minecraft:empty
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:empty
+[15:01:37] [Server thread/WARN]: Couldn't load custom particle minecraft:empty
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:empty
+[15:01:40] [Server thread/WARN]: UUID of added entity already exists: bpo['Armor Stand'/364, l='ServerLevel[world]', x=16562064.50, y=1000.00, z=-22242911.50]
+[15:01:40] [Server thread/WARN]: Couldn't load custom particle minecraft:empty
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:empty
+[15:01:40] [Server thread/WARN]: Couldn't load custom particle minecraft:empty
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:empty
+[15:03:38] [User Authenticator #1/INFO]: UUID of player Simlazer is 7385a7a7-6108-4c64-9626-245fb2658eff
+[15:03:38] [Server thread/INFO]: Simlazer[/192.168.68.157:49994] logged in with entity id 370 at (1072.4445120114094, 247.0, -507.4899505637126)
+[15:03:38] [Server thread/INFO]: Simlazer joined the game
+[15:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[15:03:43] [Server thread/INFO]: Simlazer lost connection: Disconnected
+[15:03:43] [Server thread/INFO]: Simlazer left the game
+[15:04:57] [User Authenticator #2/INFO]: UUID of player Simlazer is 7385a7a7-6108-4c64-9626-245fb2658eff
+[15:04:57] [Server thread/INFO]: Simlazer[/192.168.68.157:50122] logged in with entity id 437 at (1072.4445120114094, 247.0, -507.4899505637126)
+[15:04:57] [Server thread/INFO]: Simlazer joined the game
+[15:05:09] [Server thread/INFO]: [Simlazer: Stopping the server]
+[15:05:09] [Server thread/INFO]: Stopping server
+[15:05:09] [Server thread/INFO]: Saving players
+[15:05:09] [Server thread/INFO]: Saving worlds
+[15:05:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:05:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:05:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:05:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:05:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:05:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:05:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

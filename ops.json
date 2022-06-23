@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "7385a7a7-6108-4c64-9626-245fb2658eff",
+    "name": "Simlazer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1c99f868-76ff-472e-9bc3-23d2a901bb9d",
+    "name": "Marqsande",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3a209000-5621-4cc3-83f3-f4e833998c8a",
+    "name": "DimonSimon2",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
